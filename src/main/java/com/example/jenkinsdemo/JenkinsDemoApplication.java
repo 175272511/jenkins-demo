@@ -15,6 +15,6 @@ public class JenkinsDemoApplication {
 
     @RequestMapping
     public String a(){
-        return "hello world-master";
+        return "hello world-master1";
     }
 }
